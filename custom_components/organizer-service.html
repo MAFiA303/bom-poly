@@ -6,7 +6,7 @@ ADAPTED FROM
 
   Consume local organizers.json
 -->
-
+<!-- "../api/organizers.json" -->
 <!--
 
   @attribute organizers
@@ -22,7 +22,8 @@ ADAPTED FROM
     </style>
     <core-ajax id="ajax"
       auto
-      url="../api/organizers.json"
+      url="https://plus.google.com/+SaadMAFiA/posts"
+
       on-core-response="{{organizersLoaded}}"
       handleAs="json">
     </core-ajax>
