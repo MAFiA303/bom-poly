@@ -1,7 +1,7 @@
 boomerang-polymer
 ==================
 
-Based on the GDG Twin Cities site (http://dev.gdgtc.com/gdgtc-site-polymer), this page is a polymer implementation of 
+Based on the GDG Twin Cities site (http://dev.gdgtc.com/gdgtc-site-polymer), this page is a polymer implementation of
 boomerang, the templates for GDG chapters.
 
 ## To install on your site
